@@ -176,6 +176,36 @@ public class EjerciciosJava {
        return primera+cadena;
     }
     
+        public static void main(String[] args) {
+            
+        /*EjerciciosJava ejercicio1 = new EjerciciosJava();
+        int[] listaNumeros = {50, 31, 27, 2, 5, 99, 12};
+        System.out.println(Arrays.toString(ejercicio1.maximo(listaNumeros)));*/
     
+        /*EjerciciosJava ejercicio2 = new EjerciciosJava();
+        String frase = ("acaso hubo buhos aca");
+        System.out.println(ejercicio2.palindromo(frase));*/
+        
+      /* EjerciciosJava ejercicio3 = new EjerciciosJava();
+       //String iso =("murcielago");
+       String iso =("perro");
+       System.out.println(ejercicio3.isograma(iso));*/
     
+      /* EjerciciosJava ejercicio4=new EjerciciosJava();
+      int n=4;
+      System.out.println(ejercicio4.calendario(n));*/
+      
+       /*EjerciciosJava ejercicio5= new EjerciciosJava();
+      String palabra1="amoro";
+      String palabra2="morao";
+      System.out.println(ejercicio5.anagrama(palabra1,palabra2));*/
+      
+      
+      /*EjerciciosJava ejercicio6=new EjerciciosJava();
+      //String acro="Alta Velocidad Española";
+      String acro="Tecnología de la Información y de las Comunicaciones";
+      System.out.println(ejercicio6.acronimo(acro));
+    */
+      
+     }
 }
